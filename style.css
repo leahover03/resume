@@ -1,0 +1,14 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+#header {background-color: lightpink;
+			opacity: 0.8;}
+
+
+.container {border: 5px dashed black;}
+
+.carousel-inner img {
+        width: 900px; /* Fixed width */
+        height: 300px; /* Fixed height */
+        object-fit: contain; /* Ensures the entire image is visible */
+        margin: auto; /* Center the image */
+    }
